@@ -1,0 +1,32 @@
+.App {
+  margin: auto;
+  width: 600px;
+}
+
+.App h1 {
+  padding: 20px;
+  text-align: center;
+}
+
+#wrapper {
+  padding-bottom: 50px;
+}
+
+#nameform {
+  margin-left: 30%;
+  margin-bottom: 30px;
+}
+
+#list {
+  margin-left: 35%;
+  font-size: 22px;
+}
+
+#info {
+  font-size: 24px;
+  margin-left: 15%;
+}
+
+.btn {
+  font-size: 30px;
+}
